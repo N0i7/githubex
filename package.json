@@ -1,0 +1,22 @@
+{
+  "name": "githubex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0i7/githubex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N0i7/githubex/issues"
+  },
+  "homepage": "https://github.com/N0i7/githubex#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
